@@ -152,3 +152,38 @@
   margin: 2rem auto;
   text-align: center;
 }
+
+/* Suggestionns */
+
+.suggest-container {
+  max-width: 350px;
+  min-height: 300px;
+  border-radius: 10px;
+  margin-left: 3%;
+  position: sticky;
+  top: 2;
+  background: rgb(223, 221, 221);
+  margin-bottom: 15px;
+  border-radius: 15px 15px;
+}
+.column h2 {
+  text-align: center;
+  padding-top: 15px;
+}
+.column {
+  padding-bottom: 25px;
+}
+.column li {
+  padding-bottom: 15px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+@media (max-width: 1130px) {
+  .suggest-container {
+    width: 100vw;
+  }
+}
+
