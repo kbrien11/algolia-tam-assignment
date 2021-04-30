@@ -10,7 +10,6 @@ import { hits, searchBox, configure, index } from 'instantsearch.js/es/widgets';
 import autocompleteProductTemplate from '../templates/autocomplete-product';
 
 const renderQSHits = ({ widgetParams, hits }, isFirstRender) => {
-  console.log(hits);
   const container = document.querySelector(widgetParams.container);
   container.innerHTML = `<ul>
    ${hits
