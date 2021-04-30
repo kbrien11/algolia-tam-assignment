@@ -14,8 +14,7 @@ const renderQSHits = ({ widgetParams, hits }, isFirstRender) => {
   container.innerHTML = `<ul>
    ${hits
      .map(
-       item => `
-        
+       item => `    
        <li>${instantsearch.highlight({
          hit: item,
          attribute: 'query',
@@ -25,7 +24,6 @@ const renderQSHits = ({ widgetParams, hits }, isFirstRender) => {
      .join('')}
  </ul>`;
 };
-
 const QSHits = connectHits(renderQSHits);
 
 /**
