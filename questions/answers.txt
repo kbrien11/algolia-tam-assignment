@@ -1,0 +1,56 @@
+
+
+Question 1:
+
+
+Hi Marissa,
+
+Thank you for reaching out.
+
+We are extremely sorry for the experience that you have encountered while
+dealing with our dashboard. We are always looking for ways to improve so we appreciate the
+feedback. If there is anything that we can do for you, please do not hesitate to reach out.
+Once again we are very sorry for any problems that you have faced.
+
+Best,
+Keith Brien
+
+
+Question 2:
+
+Hi Carrie,
+
+Thank you for reaching out.
+
+We apologize for any issues that you have endured while using our platform. The best solution
+for the problem that you are currently facing is to reduce the size of your records.
+Please note there are two main ways to do this:
+
+1) If there is any data that is not necessary for your search, it would be safe to remove
+those records from Algolia. Please follow the link below to read more about this:
+https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/how-to/indexing-long-documents/
+
+2) The second solution to reducing the size of your records is to split them into smaller chunks
+   by using Aloglia's distinct feature to only portray the best result. You can read more about this
+   here: https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/how-to/indexing-long-documents/
+
+Please note that if you need to upgrade your plan to search for bigger objects you can contact us at 
+enterprise@algolia.com. In the meantime, if you need anything else, please let us know.
+
+Best,
+Keith Brien
+
+
+Question 3:
+
+Hi Marc,
+
+Thank you for reaching out.
+
+You are seeing that error because you have either not defined searchkit before
+using it in your code, or you did not import it correctly before using it in your code.
+If the problem still persists , please do not hesitate to reach out again!
+
+Best,
+Keith Brien
+
