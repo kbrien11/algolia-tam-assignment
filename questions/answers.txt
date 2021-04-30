@@ -34,7 +34,7 @@ https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/h
    by using Aloglia's distinct feature to only portray the best result. You can read more about this
    here: https://www.algolia.com/doc/guides/sending-and-managing-data/prepare-your-data/how-to/indexing-long-documents/
 
-Please note that if you need to upgrade your plan to search for bigger objects you can contact us at 
+Please note that if you need to upgrade your plan to search for bigger objects you can always contact us at 
 enterprise@algolia.com. In the meantime, if you need anything else, please let us know.
 
 Best,
