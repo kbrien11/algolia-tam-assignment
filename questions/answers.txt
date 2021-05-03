@@ -9,7 +9,8 @@ Thank you for reaching out.
 
 We are extremely sorry for the experience that you have encountered while
 dealing with our dashboard. We are always looking for ways to improve so we appreciate the
-feedback. If there is anything that we can do for you, please do not hesitate to reach out.
+feedback. The fastest way to delete an index is to use the API by using the "delete" function in your given language.
+If there is anything that we can do for you, please do not hesitate to reach out.
 Once again we are very sorry for any problems that you have faced.
 
 Best,
